@@ -11,6 +11,6 @@
 <div class="container classnisir">
 	<h1>Its all about shits</h1>
 	<h3>dont panic, its oraganic</h3>
-	<p></p>
+	<p>AHWEAWEOHAWHEUHAWOEAWEAWOIEJAWELKAE</p>
 </div>
  <?php get_footer(); ?>
